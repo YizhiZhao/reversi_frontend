@@ -1,0 +1,24 @@
+@import '~antd/dist/antd.css';
+
+.start-menu {
+	clear: both;
+}
+
+.new-game-area {
+    height: 30%;
+    margin-top: 3%;
+}
+
+.text-area {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.old-game-area {
+}
+
+.user-table {
+    width: 50%;
+    margin-left: 25%;
+}

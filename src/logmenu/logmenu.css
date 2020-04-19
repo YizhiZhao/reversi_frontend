@@ -1,0 +1,27 @@
+@import '~antd/dist/antd.css';
+
+.cover-area {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 6%;
+}
+
+.cover-img {
+    width: 50%;
+}
+
+.text-area {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.form {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.form-button {
+    width: 50%;
+    margin-left: 25%;
+}
